@@ -13,6 +13,7 @@
 @import "../components/screen-header.css";
 @import "../components/icon-row.css";
 @import "../components/alt-screen-header.css";
+@import "../components/only-mobile.css";
 
 /* screens */
 @import "../screens/friends.css";
@@ -21,6 +22,7 @@
 @import "../screens/news.css";
 @import "../screens/chat.css";
 @import "../screens/settings.css";
+@import "../screens/index.css";
 
 body {
   background-color: var(--base-color);
