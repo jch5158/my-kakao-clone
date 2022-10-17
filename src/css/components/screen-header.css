@@ -13,6 +13,7 @@
 
 .screen-header__icons i {
   margin-left: 25px;
+  cursor: pointer;
 }
 
 @keyframes focusSearch {
